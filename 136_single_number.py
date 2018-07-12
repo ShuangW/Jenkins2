@@ -16,3 +16,7 @@ Input: [4,1,2,1,2]
 Output: 4
 '''
 
+class Solution(object):
+  def singleNumber(self,nums):
+    
+
